@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, my name is Xisto
 #### I am a web full-stack developer
 ![I am a web full-stack developer](https://sanet.pics/storage-7/0421/HZ7j9Q0PDk9pRRG7BtNKGV2pGKhhh9Rr.jpg)
